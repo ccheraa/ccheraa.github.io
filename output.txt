@@ -1,0 +1,24 @@
+.:
+total 16
+drwxrwxr-x 3 user user    4096 Jan  4 12:46 Images
+drwxrwxr-x 2 user user    4096 Jan  4 12:46 Music
+-rw-rw-r-- 1 user user    4096 Jan  4 11:57 playlist.m3u
+ 
+./Images:
+total 112
+drwxrwxr-x 2 user user    4096 Jan  4 12:46 Camera
+-rw-rw-r-- 1 user user  240754 Jan  4 11:57 wallpaper.jpg
+-rw-rw-r-- 1 user user 1220456 Jan  4 12:14 icon.ico
+ 
+./Images/Camera:
+total 108
+-rw-rw-r-- 1 user user 6291456 Jan  4 11:57 IMG_20201123_104533.jpg
+-rw-rw-r-- 1 user user 6284124 Jan  4 12:14 IMG_20201123_104941.jpg
+-rw-rw-r-- 1 user user 6304850 Jan  4 12:31 IMG_20201123_111345.jpg
+-rw-rw-r-- 1 user user 6289942 Jan  4 12:29 IMG_20201121_190457.jpg
+ 
+./Music:
+total 108
+-rw-rw-r-- 1 user user 4144380 Jan  4 12:14 background music.mp3
+-rw-rw-r-- 1 user user 2879342 Jan  4 12:31 ending.mp3
+-rw-rw-r-- 1 user user   13528 Jan  4 12:29 effect.wav
